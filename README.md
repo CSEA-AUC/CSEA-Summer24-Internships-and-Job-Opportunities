@@ -6,7 +6,11 @@ Help your peers by sharing tech internships through one of the following:
 ## Internships
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Intel Corporation** | Undergrad Intern Technical | Gdansk, Pomerania, Poland | <a href="https://jobs.intel.com/en/job/-/-/599/52167158160"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| July 27|
+| **Amazon** | Project Management Intern | Germany (Remote) | <a href="https://www.amazon.jobs/en/jobs/2435979/project-management-intern?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 31|
+| **Amazon** | Project Management Intern | Netherlands (Remote) | <a href="https://www.amazon.jobs/en/jobs/2436006/project-management-intern?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 31|
+| **Devoteam** | Google Pillar - AI Intern | Lisbon, Portugal (Remote) | <a href="https://www.linkedin.com/jobs/view/3704932032"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 30|
+| **Ericsson** | Kubernetes Administrator Intern | Budapest, Hungary | <a href="https://jobs.ericsson.com/careers/job/563121756486311?jobPipeline=LinkedIn&domain=ericsson.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 29|
+| **Wavemaker MENA** | Internship | Cairo, Egypt | <a href="https://jobs.jobvite.com/careers/groupm-emea/job/oiogofw4?__jvst=GRM%20Careers%20Site"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 27|
 | **Amazon** | 2024 Software Dev Engineer Intern | Luxembourg | <a href="https://amazon.jobs/en/jobs/2430187/2024-software-dev-engineer-intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 23|
 | **Amazon** | 2024 Data Engineer Internship| Luxembourg | <a href="https://amazon.jobs/en/jobs/2427401/2024-data-engineer-internship"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 21|
 | **Jane Street** | Software Engineer Internship, June-September| London | <a href="https://www.janestreet.com/join-jane-street/position/6781186002/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 14|
@@ -18,6 +22,7 @@ Help your peers by sharing tech internships through one of the following:
 | **Amazon** | 2024 Software Dev Engineer Intern | Dublin| <a href="https://amazon.jobs/en/jobs/2415936/2024-software-dev-engineer-intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 3|
 | **Amazon** | 2024 Software Dev Engineer Intern | Madrid| <a href="https://amazon.jobs/en/jobs/2415977/2024-software-dev-engineer-intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 3|
 | **Amazon** | 2024 Software Dev Engineer Intern | Cape Town | <a href="https://amazon.jobs/en/jobs/2415961/2024-software-dev-engineer-intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 3|
+| **Intel Corporation** | Undergrad Intern Technical | Gdansk, Pomerania, Poland | <a href="https://jobs.intel.com/en/job/-/-/599/52167158160"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| July 27|
 | **Citaldel** | Quantitative Research – Intern (Europe) | London| <a href="https://www.citadel.com/careers/details/quantitative-research-intern-europe-2/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Jul 19|
 | **Citaldel** | Software Engineer – Intern (Europe) | London| <a href="https://www.citadel.com/careers/details/software-engineer-intern-europe/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Jul 3|
 | **Amazon** | 2024 Software Dev Engineer Intern | United States| <a href="https://amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| June 22|
