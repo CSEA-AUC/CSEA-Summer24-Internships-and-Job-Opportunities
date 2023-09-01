@@ -6,6 +6,7 @@ Help your peers by sharing tech internships through one of the following:
 ## Internships
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Intel Corporation** | Undergrad Intern Technical | Gdansk, Pomerania, Poland | <a href="https://jobs.intel.com/en/job/-/-/599/52167158160"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| July 27|
 | **Amazon** | 2024 Software Dev Engineer Intern | Luxembourg | <a href="https://amazon.jobs/en/jobs/2430187/2024-software-dev-engineer-intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 23|
 | **Amazon** | 2024 Data Engineer Internship| Luxembourg | <a href="https://amazon.jobs/en/jobs/2427401/2024-data-engineer-internship"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 21|
 | **Jane Street** | Software Engineer Internship, June-September| London | <a href="https://www.janestreet.com/join-jane-street/position/6781186002/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 14|
