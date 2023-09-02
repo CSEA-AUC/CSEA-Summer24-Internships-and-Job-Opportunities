@@ -4,9 +4,9 @@ Help your peers by sharing tech internships through one of the following:
 - Make a pull request.
 - Fill this google [form](https://forms.gle/PUe4fZBTj49ToRZe7)
 ## Table of Contents
-- Internships in Egypt (#intern-egypt)
-- Internships Abroad (#intern-abroad)
-- Remote Internships (#remote)
+- [Internships in Egypt] (#intern-egypt)
+- [Internships Abroad] (#intern-abroad)
+- [Remote Internships] (#remote)
 
 <a name="intern-egypt"></a>
 
