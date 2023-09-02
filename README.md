@@ -4,12 +4,11 @@ Help your peers by sharing tech internships through one of the following:
 - Make a pull request.
 - Fill this google [form](https://forms.gle/PUe4fZBTj49ToRZe7)
 ## Table of Contents
-- [Internships in Egypt] (#intern-egypt)
-- [Internships Abroad] (#intern-abroad)
-- [Remote Internships] (#remote)
+- [Internships in Egypt](#intern-egypt)
+- [Internships Abroad](#intern-abroad)
+- [Remote Internships](#remote)
 
 <a name="intern-egypt"></a>
-
 ## Internships in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
@@ -17,7 +16,6 @@ Help your peers by sharing tech internships through one of the following:
 | **Wavemaker MENA** | Internship | Cairo, Egypt | <a href="https://jobs.jobvite.com/careers/groupm-emea/job/oiogofw4?__jvst=GRM%20Careers%20Site"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 27|
 
 <a name="intern-abroad"></a>
-
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
@@ -41,7 +39,6 @@ Help your peers by sharing tech internships through one of the following:
 | **Amazon** | 2024 Software Dev Engineer Intern | United States| <a href="https://amazon.jobs/en/jobs/2408098/software-development-engineer-internship-2024-us"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| June 22|
 
 <a name="remote"></a>
-
 ## Remote Internships
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
