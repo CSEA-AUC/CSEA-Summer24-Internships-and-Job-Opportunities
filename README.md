@@ -23,8 +23,8 @@ Help your peers by sharing tech internships through one of the following:
 | --- | --- | --- | :---: | :---: |
 | **NI (National Instruments)** | Technical Support Engineer Intern | Budapest, Budapest, Hungary | <a href="https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8224?utm_medium=jobboard&utm_source=Linkedin"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 6|
 | **Alcon** | Data Analyst Intern | Warsaw, Mazowieckie, Poland | <a href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Warszawa-Poland/Data-Analyst-Intern_R-2023-27254"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 6|
-| **Bloomberg** | 2024 Software Engineer Industrial Placement | London | <a href="https://careers.bloomberg.com/job/detail/118604" width="84" alt="Apply"></a>| September 5|
-| **Bloomberg** | 2024 Software Engineer Intern | London | <a href="https://careers.bloomberg.com/job/detail/118603" width="84" alt="Apply"></a>| September 5|
+| **Bloomberg** | 2024 Software Engineer Industrial Placement | London | <a href="https://careers.bloomberg.com/job/detail/118604"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 5|
+| **Bloomberg** | 2024 Software Engineer Intern | London | <a href="https://careers.bloomberg.com/job/detail/118603"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 5|
 | **Virtu Financial** | Internship - Quantitative Trading | Dublin City, County Dublin, Ireland | <a href="https://boards.greenhouse.io/virtu/jobs/6919426002"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 5|
 | **IBM** | Technical Support Data Security Intern Placement 2024 | Mulhuddart, County Dublin, Ireland | <a href="https://careers.ibm.com/job/19021017/technical-support-data-security-intern-placement-2024-mulhuddart-ie/?codes=SN_LinkedIn&Codes=SN_LinkedIn"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 1|
 | **J.P. Morgan** | 2024 Software Engineer Program - Summer Internship | Bournemouth, Glasgow & London | <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210419640"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 1|
@@ -52,7 +52,7 @@ Help your peers by sharing tech internships through one of the following:
 ## Remote Internships
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Saphetor** | Software Engineering Intern | Riot Games | <a href="https://www.riotgames.com/en/work-with-us/job/5330414/software-engineering-intern-los-angeles-usa" width="84" alt="Apply"></a>| Unknown - Deadline October 31|
+| **Saphetor** | Software Engineering Intern | Riot Games | <a href="https://www.riotgames.com/en/work-with-us/job/5330414/software-engineering-intern-los-angeles-usa"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown - Deadline October 31|
 | **Saphetor** | Python Intern - Paid Remote Internship | Attiki, Greece (Remote) | <a href="https://saphetor.bamboohr.com/careers/50"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 31|
 | **Amazon** | Project Management Intern | Germany (Remote) | <a href="https://www.amazon.jobs/en/jobs/2435979/project-management-intern?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 31|
 | **Amazon** | Project Management Intern | Netherlands (Remote) | <a href="https://www.amazon.jobs/en/jobs/2436006/project-management-intern?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 31|
@@ -62,12 +62,12 @@ Help your peers by sharing tech internships through one of the following:
 ## Full-time Positions in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Microsoft** | Software Engineer - WebXT | Cairo, Egypt | <a href="https://jobs.careers.microsoft.com/us/en/job/1609192/Software-Engineer---WebXT?jobsource=linkedin" width="84" alt="Apply"></a>| September 6|
+| **Microsoft** | Software Engineer - WebXT | Cairo, Egypt | <a href="https://jobs.careers.microsoft.com/us/en/job/1609192/Software-Engineer---WebXT?jobsource=linkedin"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 6|
 
 <a name="fulltime-abroad"></a>
 ## Full-time Positions Abroad
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Meta** | Software Engineer, Product | London | <a href="https://www.metacareers.com/jobs/7215916778436196/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_job=a1K2K000007p653UAA_4a4aaa8e&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20230907T064801Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=5175a94b410911ed93225b1b82ab6d974d0a438d798d4f4d8d0cc10d911a8b47" width="84" alt="Apply"></a>| Unknown |
-| **Bloomberg** | 2024 Software Engineer | London | <a href="https://careers.bloomberg.com/job/detail/118601" width="84" alt="Apply"></a>| September 5|
+| **Meta** | Software Engineer, Product | London | <a href="https://www.metacareers.com/jobs/7215916778436196/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_job=a1K2K000007p653UAA_4a4aaa8e&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20230907T064801Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=5175a94b410911ed93225b1b82ab6d974d0a438d798d4f4d8d0cc10d911a8b47"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **Bloomberg** | 2024 Software Engineer | London | <a href="https://careers.bloomberg.com/job/detail/118601"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 5|
 | **Netflix** | New Grad Software Engineer (2024) | Los Gatos, California | <a href="https://jobs.netflix.com/jobs/291980521"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 28|
