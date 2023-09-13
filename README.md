@@ -9,6 +9,7 @@ Help your peers by sharing tech internships through one of the following:
 - [Remote Internships](#remote)
 - [Full-time Positions in Egypt](#fulltime-egypt)
 - [Full-time Positions Abroad](#fulltime-abroad)
+- [Research Positions](#research-pos)
 
 <a name="intern-egypt"></a>
 ## Internships in Egypt
@@ -71,3 +72,11 @@ Help your peers by sharing tech internships through one of the following:
 | **Meta** | Software Engineer, Product | London | <a href="https://www.metacareers.com/jobs/7215916778436196/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_job=a1K2K000007p653UAA_4a4aaa8e&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20230907T064801Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=5175a94b410911ed93225b1b82ab6d974d0a438d798d4f4d8d0cc10d911a8b47"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Bloomberg** | 2024 Software Engineer | London | <a href="https://careers.bloomberg.com/job/detail/118601"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 5|
 | **Netflix** | New Grad Software Engineer (2024) | Los Gatos, California | <a href="https://jobs.netflix.com/jobs/291980521"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 28|
+
+<a name="research-pos"></a>
+## Research Positions
+| Company/University | Role | Location | Application/Link | Deadline | 
+| --- | --- | --- | :---: | :---: |
+|KAUST: King Abdullah University of Science and Technology| KAUST internship| Remote or Saudi Arabia |  <a href="https://vsrp.kaust.edu.sa/internship"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| N/A. Alwasys Rolling|
+
+
