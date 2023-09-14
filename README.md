@@ -1,4 +1,4 @@
-# CSEA-Summer24-Internships
+# CSEA-Summer24-Internships-and-Job-Opportunities
 ## Contribution
 Help your peers by sharing tech internships through one of the following:
 - Make a pull request.
@@ -21,10 +21,16 @@ Help your peers by sharing tech internships through one of the following:
 
 <a name="intern-abroad"></a>
 ## Internships Abroad
-| Company | Role | Location | Application/Link | Date Posted |
+| Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
-| **Procter & Gamble* | Internship in AI Vision System Integration (m/f/d) (6 months)| Euskirchen, North Rhine-Westphalia, Germany| <a href="https://www.pgcareers.com/global/en/job/R000090398/Internship-in-AI-Vision-System-Integration-m-f-d-6-months?source=RS_LINKEDIN"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13|
-| **The Estée Lauder Companies Inc.* | Data Scientist Intern| Budapest, Hungary | <a href="https://jobs.elcompanies.com/estee-lauder-companies/jobs/2313427?lang=en-us&src=SNS-10460"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13|
+| **Google** | Security Engineer Intern, 2024|Zürich, Switzerland; Munich, Germany| <a href="https://www.google.com/about/careers/applications/jobs/results/98651581534085830-security-engineer-intern-2024"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13. <br /> App opens September 18|
+| **Google** | Software Engineering, Site Reliability Engineering Intern, 2024 |London, UK; Zürich, Switzerland; Munich, Germany; Aarhus, Denmark; Paris, France; Accra, Ghana; Budapest, Hungary; Dublin, Ireland; Stockholm, Sweden| <a href="https://www.google.com/about/careers/applications/jobs/results/76031878571664070-software-engineering-site-reliability-engineering-intern-2024"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13. <br /> App opens September 18|
+| **Google** | Software Engineering, Site Reliability Engineering Intern, 2024 | Warsaw, Poland; Bucharest, Romania | <a href="https://www.google.com/about/careers/applications/jobs/results/93378048889365190-software-engineering-site-reliability-engineering-intern-2024"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13. <br /> App opens September 18|
+| **Google** | Student Training in Engineering Program, STEP 2024 | London, UK; Zürich, Switzerland; Munich, Germany; Paris, France; Dublin, Ireland. | <a href="https://www.google.com/about/careers/applications/jobs/results/121630824798790342-student-training-in-engineering-program-step-2024"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13. <br /> App opens September 18|
+| **Google** | Student Training in Engineering Program, STEP 2024 | Warsaw, Poland; Bucharest, Romania | <a href="https://www.google.com/about/careers/applications/jobs/results/79792758094471878-student-training-in-engineering-program-step-2024"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13. <br /> App opens September 18|
+| **Google** | Business Intern 2024, Sales | Multiple Locations | <a href="https://www.google.com/about/careers/applications/jobs/results/104918522934502086-business-intern-2024-sales"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13. <br /> App opens September 18|
+| **Procter & Gamble** | Internship in AI Vision System Integration (m/f/d) (6 months)| Euskirchen, North Rhine-Westphalia, Germany| <a href="https://www.pgcareers.com/global/en/job/R000090398/Internship-in-AI-Vision-System-Integration-m-f-d-6-months?source=RS_LINKEDIN"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13|
+| **The Estée Lauder Companies Inc.** | Data Scientist Intern| Budapest, Hungary | <a href="https://jobs.elcompanies.com/estee-lauder-companies/jobs/2313427?lang=en-us&src=SNS-10460"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 13|
 | **PayPal** | Technical Support Intern | Dublin, County Dublin, Ireland | <a href="https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0107155&sort_by=relevance"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 8|
 | **BMW Group** | Intern IT Technology Office Munich (f/m/x) | München, Bavaria, Germany | <a href="https://www.bmwgroup.jobs/de/de/jobfinder/job-description.105728.html"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 6|
 | **NI (National Instruments)** | Technical Support Engineer Intern | Budapest, Budapest, Hungary | <a href="https://pef.fa.us1.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8224?utm_medium=jobboard&utm_source=Linkedin"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 6|
