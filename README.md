@@ -86,7 +86,7 @@ Help your peers by sharing tech internships through one of the following:
 | **Netflix** | New Grad Software Engineer (2024) | Los Gatos, California | <a href="https://jobs.netflix.com/jobs/291980521"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 28|
 
 <a name="remote-fulltime"></a>
-## Remote Internships
+## Remote Full-time Positions
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Brainstorm Force** | QA Engineer - Automation | Remote | <a href="https://brainstormforce.com/join/qa-engineer-automation/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
@@ -100,6 +100,6 @@ Help your peers by sharing tech internships through one of the following:
 ## Research Positions
 | Company/University | Role | Location | Application/Link | Deadline | 
 | --- | --- | --- | :---: | :---: |
-|KAUST: King Abdullah University of Science and Technology| KAUST internship| Remote or Saudi Arabia |  <a href="https://vsrp.kaust.edu.sa/internship"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| N/A. Alwasys Rolling|
+|KAUST: King Abdullah University of Science and Technology| KAUST internship| Remote or Saudi Arabia |  <a href="https://vsrp.kaust.edu.sa/internship"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| N/A. Always Rolling|
 
 
