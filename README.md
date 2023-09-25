@@ -91,6 +91,8 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Full-time Positions Abroad
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Anthropic** | Software Engineer, product | San Fransico, USA | <a href="https://jobs.lever.co/Anthropic/8b85d37f-6201-489a-853e-a4523aeb45b8?lever-source=Indeed"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **bol.com** | Software Engineer| Utrecht, the Netherlands | <a href=" https://careers.bol.com/en/job/software-engineer/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Cobblestone Energy** | Junior Developer | Dubai, UAE | <a href="https://cobblestoneenergy.com/careers/job/?gh_jid=4371092003"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Meta** | Software Engineer, Product | London | <a href="https://www.metacareers.com/jobs/7215916778436196/?rx_campaign=Linkedin1&rx_ch=connector&rx_group=126320&rx_job=a1K2K000007p653UAA_4a4aaa8e&rx_medium=post&rx_r=none&rx_source=Linkedin&rx_ts=20230907T064801Z&rx_vp=slots&utm_campaign=Job%2Bboard&utm_medium=jobs&utm_source=LIpaid&rx_viewer=5175a94b410911ed93225b1b82ab6d974d0a438d798d4f4d8d0cc10d911a8b47"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Bloomberg** | 2024 Software Engineer | London | <a href="https://careers.bloomberg.com/job/detail/118601"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 5|
@@ -100,6 +102,7 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Remote Full-time Positions
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Mercari** | Software Engineer, Android | Remote / Tokyo, Japan | <a href="https://apply.workable.com/mercari/j/B8896BF883/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Brainstorm Force** | QA Engineer - Automation | Remote | <a href="https://brainstormforce.com/join/qa-engineer-automation/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Brainstorm Force** | QA Engineer - Manual | Remote | <a href="https://brainstormforce.com/join/qa-engineer-manual/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Brainstorm Force** | WordPress Support Specialist | Remote | <a href="https://brainstormforce.com/join/wordpress-support-specialist/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
