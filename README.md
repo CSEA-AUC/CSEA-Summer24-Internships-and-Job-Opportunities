@@ -27,7 +27,6 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
-
 | **IBM** | Internship @ IBM | Multiple Cities | <a href="https://www.ibm.com/careers/us-en/search/?search=Summer&filters=department:Software%20Engineering,level:Intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 26 |
 | **PwC Greece** | Internship @ PwC Greece | Athens, Attiki, Greece | <a href="https://www.pwc.com/gr/en/careers/campus-job-search/description.html?wdjobreqid=479464WD&wdcountry=GRC&wdjobsite=Global_Campus_Careers&wdprog=&wdisu="><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 22 |
 | **DNA Script** | Intern, Data Engineering | Le Kremlin-Bicêtre, Île-de-France, France | <a href="https://boards.eu.greenhouse.io/dnascript/jobs/4218937101?source=LinkedIn"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 22 |
