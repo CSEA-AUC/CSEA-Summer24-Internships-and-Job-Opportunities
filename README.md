@@ -107,6 +107,7 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Remote Full-time Positions
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bending Spoons** | Multiple Positions | Remote / Italy | <a href="https://jobs.bendingspoons.com/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Mercari** | Software Engineer, Android | Remote / Tokyo, Japan | <a href="https://apply.workable.com/mercari/j/B8896BF883/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Brainstorm Force** | QA Engineer - Automation | Remote | <a href="https://brainstormforce.com/join/qa-engineer-automation/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Brainstorm Force** | QA Engineer - Manual | Remote | <a href="https://brainstormforce.com/join/qa-engineer-manual/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
