@@ -20,7 +20,7 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
-| **Dell Technologies** | Undergraduate Intern (IN) | Cairo, Egypt | <a href="https://jobs.dell.com/job/-/-/375/53714342192?source=rd_linkedin_job_posting&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=EMEA&utm_content=social_media&utm_term=367297881&ss=paid&dclid=COGYldzUi4EDFfEgBgAdC6UG4Q"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 30|
+| **Dell Technologies** | Undergraduate Intern (IN) | Cairo, Egypt | <a href="https://jobs.dell.com/job/-/-/375/53714342192?source=rd_linkedin_job_posting&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=EMEA&utm_content=social_media&utm_term=367297881&ss=paid&dclid=COGYldzUi4EDFfEgBgAdC6UG4Q"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Apply"></a>| August 30|
 | **Wavemaker MENA** | Internship | Cairo, Egypt | <a href="https://jobs.jobvite.com/careers/groupm-emea/job/oiogofw4?__jvst=GRM%20Careers%20Site"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 27|
 
 <a name="intern-abroad"></a>
