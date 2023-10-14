@@ -22,11 +22,16 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 | --- | --- | --- | :---: | :---: |
 | **Dell Technologies** | Undergraduate Intern (IN) | Cairo, Egypt | <a href="https://jobs.dell.com/job/-/-/375/53714342192?source=rd_linkedin_job_posting&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=EMEA&utm_content=social_media&utm_term=367297881&ss=paid&dclid=COGYldzUi4EDFfEgBgAdC6UG4Q"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Apply"></a>| August 30|
 | **Wavemaker MENA** | Internship | Cairo, Egypt | <a href="https://jobs.jobvite.com/careers/groupm-emea/job/oiogofw4?__jvst=GRM%20Careers%20Site"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| August 27|
+| **Areeb Technology** | Android Developer Intern | Cairo, Egypt | <a href="https://areebgroup.zohorecruit.com/jobs/Careers/489939000008733075/Internship-2023-11---Android-Developer?source=CareerSite"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 4 |
+| **Areeb Technology** | iOS Developer Intern | Cairo, Egypt | <a href="https://areebgroup.zohorecruit.com/jobs/Careers/489939000008733003/Internship-2023-11---iOS-Developer?source=CareerSite"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 4 |
 
 <a name="intern-abroad"></a>
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
+| **Booking** | Software Engineer Intern | Amesterdam, Netherlands | <a href="https://jobs.booking.com/careers?query=intern&pid=562949957954945&domain=booking.com&sort_by=relevance&triggerGoButton=false"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 7 |
+| **Optiver** | Software Engineer Intern | Amesterdam, Netherlands | <a href="https://optiver.com/working-at-optiver/career-opportunities/6879445002/?gh_src=9f41433a2us"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 10 |
+| **Riot Games** | Software Engineer Intern | Los Angeles, CA | <a href="https://www.riotgames.com/en/work-with-us/job/5330414/software-engineering-intern-los-angeles-usa"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 17 |
 | **PayPal** | Data Analyst Intern - Buy Now Pay Later | Paris, Île-de-France, France | <a href="https://paypal.eightfold.ai/careers?Codes=W-LINKEDIN&domain=paypal.com&query=R0107090&sort_by=relevance"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 7 |
 | **Huawei** | Intern, Competition Talent Program | Helsinki, Uusimaa, Finland | <a href="https://huaweifinlandrnd.teamtailor.com/jobs/1903050-competition-talent-program"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 27 |
 | **Artefact** | Intern Data Scientist - Paris | Paris, Île-de-France, France | <a href="https://boards.greenhouse.io/artefactlinkedin/jobs/5517702002?gh_src=96efae722us&source=LinkedIn"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 26 |
@@ -91,6 +96,8 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
 | **Microsoft** | Software Engineer - WebXT | Cairo, Egypt | <a href="https://jobs.careers.microsoft.com/us/en/job/1609192/Software-Engineer---WebXT?jobsource=linkedin"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="🔒 Apply"></a>| September 6|
+| **Thndr** | Backend Engineer - WebXT | Cairo, Egypt | <a href="https://shorturl.at/ktwFG"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="🔒 Apply"></a>| October 8
+| **Thndr** | Frontend Engineer - WebXT | Cairo, Egypt | <a href="https://shorturl.at/DS158"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="🔒 Apply"></a>| October 8|
 
 <a name="fulltime-abroad"></a>
 ## Full-time Positions Abroad
