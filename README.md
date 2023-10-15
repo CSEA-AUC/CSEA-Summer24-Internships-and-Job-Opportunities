@@ -31,6 +31,7 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
+| **Nvidia** |CPU Compiler Intern|UK Multiple Locations| <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
 | **Barclays** |Technology Developer Summer Internship Programme 2024 |London| <a href="https://search.jobs.barclays/job/-/-/22545/53950920672?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
 | **Barclays** |Technology Developer Summer Internship Programme 2024 |Glasgow, Scotland| <a href="https://search.jobs.barclays/job/-/-/22545/53938741568?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
 | **Barclays** |Technology Developer Summer Internship Programme 2024 |Knutsford, England| <a href="https://search.jobs.barclays/job/-/-/22545/53938742096?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
