@@ -31,6 +31,10 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
+| **Barclays** |Technology Developer Summer Internship Programme 2024 |London| <a href="https://search.jobs.barclays/job/-/-/22545/53950920672?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
+| **Barclays** |Technology Developer Summer Internship Programme 2024 |Glasgow, Scotland| <a href="https://search.jobs.barclays/job/-/-/22545/53938741568?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
+| **Barclays** |Technology Developer Summer Internship Programme 2024 |Knutsford, England| <a href="https://search.jobs.barclays/job/-/-/22545/53938742096?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
+| **Barclays** |Technology Developer Summer Internship Programme 2024 |Northampton, England| <a href="https://search.jobs.barclays/job/-/-/22545/53950982160?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
 | **ShopFully** | Data Scientist Intern | Milan, Lombardy, Italy | <a href="https://www.linkedin.com/jobs/view/3736592205"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 10 |
 | **DLL** | Data Scientist Intern | Eindhoven, North Brabant, Netherlands | <a href="https://www.linkedin.com/jobs/view/3738399976"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 9 |
 | **Siemens Digital Industries Software** | IT Intern | The Hague, South Holland, Netherlands | <a href="https://jobs.siemens.com/careers/job/563156116374139?domain=siemens.com&hl=en&sourceType=PREMIUM_POST_SITE"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 20 |
