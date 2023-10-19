@@ -20,6 +20,7 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Demo Company** | Intern | Cairo, Egypt | <a href="https://www.linkedin.com/jobs/view/3742569926"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Apply"></a>| October 19|
 | **Honeywell** | Intern Bachelors Cyber Sec | Cairo, Egypt | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ416815EXTERNALENUS/Intern-Bachelors-Cyber-Sec?utm_source=linkedin&utm_medium=phenom-feeds"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Apply"></a>| October 10|
 | **Siemens** | Electrical Products Digitalization Specialist - Intern | Cairo, Egypt | <a href="https://www.linkedin.com/jobs/view/3727739018"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 3 |
 | **Dell Technologies** | Undergraduate Intern (IN) | Cairo, Egypt | <a href="https://jobs.dell.com/job/-/-/375/53714342192?source=rd_linkedin_job_posting&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=EMEA&utm_content=social_media&utm_term=367297881&ss=paid&dclid=COGYldzUi4EDFfEgBgAdC6UG4Q"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Apply"></a>| August 30|
@@ -31,6 +32,12 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
+| **ONYON** | Data Entry & Operations Support Intern | Milan, Lombardy, Italy | <a href="https://www.linkedin.com/jobs/view/3742402903"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 18 |
+| **Doctolib** | Software Engineering Intern - Milan (x/f/m) | Milan, Lombardy, Italy | <a href="https://www.linkedin.com/jobs/view/3740598757"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 17 |
+| **Nestlé** | Information Technology (IT) Intern | Amstelveen, North Holland, Netherlands | <a href="https://www.linkedin.com/jobs/view/3741289557"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 16 |
+| **Carrots Lab** | BI Intern - Mobile Apps (Based in Spain) | Barcelona, Catalonia, Spain | <a href="https://www.linkedin.com/jobs/view/3740720986"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 15 |
+| **Dell Technologies** |Infrastructure Support Intern|Dublin, County Dublin, Ireland| <a href="https://www.linkedin.com/jobs/view/3727174093"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 22|
+| **Dell Technologies** |Business Intelligence Intern|Slovakia| <a href="https://jobs.dell.com/job/-/-/375/53983300224?source=rd_linkedin_job_posting&utm_source=linkedin.com&utm_medium=job_posting&utm_campaign=EMEA&utm_content=social_media&utm_term=367297881&ss=paid&dclid=COOhkcXtgoIDFRsyBgAd1j0NGA"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 5|
 | **Nvidia** |CPU Compiler Intern|UK Multiple Locations| <a href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern_JR1971030?source=jobboardlinkedin"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
 | **Barclays** |Technology Developer Summer Internship Programme 2024 |London| <a href="https://search.jobs.barclays/job/-/-/22545/53950920672?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
 | **Barclays** |Technology Developer Summer Internship Programme 2024 |Glasgow, Scotland| <a href="https://search.jobs.barclays/job/-/-/22545/53938741568?src=JB-12860"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| September 4|
