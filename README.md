@@ -32,6 +32,7 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
+| **IBM US** | Internship @ IBM US | Multiple Cities | <a href="https://www.ibm.com/careers/us-en/search/?search=Summer&filters=department:Software%20Engineering,level:Intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| NA |
 | **ONYON** | Data Entry & Operations Support Intern | Milan, Lombardy, Italy | <a href="https://www.linkedin.com/jobs/view/3742402903"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 18 |
 | **Doctolib** | Software Engineering Intern - Milan (x/f/m) | Milan, Lombardy, Italy | <a href="https://www.linkedin.com/jobs/view/3740598757"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 17 |
 | **Nestlé** | Information Technology (IT) Intern | Amstelveen, North Holland, Netherlands | <a href="https://www.linkedin.com/jobs/view/3741289557"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 16 |
