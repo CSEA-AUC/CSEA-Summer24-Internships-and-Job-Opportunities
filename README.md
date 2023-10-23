@@ -20,6 +20,7 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Mastercard** | Associate Consultant Intern 2024 Summer Internship Program | Cairo, Egypt | <a href="hhttps://www.linkedin.com/jobs/view/3742894869"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| October 19|
 | **Demo Company** | Intern | Cairo, Egypt | <a href="https://www.linkedin.com/jobs/view/3742569926"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| October 19|
 | **Honeywell** | Intern Bachelors Cyber Sec | Cairo, Egypt | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ416815EXTERNALENUS/Intern-Bachelors-Cyber-Sec?utm_source=linkedin&utm_medium=phenom-feeds"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a></a>| October 10|
 | **Siemens** | Electrical Products Digitalization Specialist - Intern | Cairo, Egypt | <a href="https://www.linkedin.com/jobs/view/3727739018"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 3 |
@@ -32,6 +33,8 @@ Please, put the internships at the top of the table, so that anyone can weekly c
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
+| **Dell Technologies** | Undergraduate Intern |Bucharest, Bucharest, Romania | <a href="https://www.linkedin.com/jobs/view/3744752813"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 20 |
+| **McKinsey & Company** | Summer Business Analyst Intern - McKinsey Digital |Lisbon or Madrid, Spain | <a href="https://www.mckinsey.com/careers/search-jobs/jobs/summerbusinessanalystintern-mckinseydigital-38389"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| NA |
 | **IBM US** | Internship @ IBM US | Multiple Cities | <a href="https://www.ibm.com/careers/us-en/search/?search=Summer&filters=department:Software%20Engineering,level:Intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| NA |
 | **ONYON** | Data Entry & Operations Support Intern | Milan, Lombardy, Italy | <a href="https://www.linkedin.com/jobs/view/3742402903"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 18 |
 | **Doctolib** | Software Engineering Intern - Milan (x/f/m) | Milan, Lombardy, Italy | <a href="https://www.linkedin.com/jobs/view/3740598757"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 17 |
