@@ -1,6 +1,9 @@
 # CSEA-Summer24-Internships-and-Job-Opportunities
 ## Overview
-This repo gathers differnt intenrships, full time jobs, and research opportunities directed to Egyptain undergraduate students and fresh graduates. Help us expand it!
+This repo is an initiative by the Computer Science and Engineering Association (CSEA) at the American University in Cairo (AUC) to help students in their internships and job hunt.
+We have gathered different internships, full-time jobs, and research opportunities open for Egyptian undergraduate students and fresh graduates. 
+
+Help us expand it!
 ## Contribution
 Help your peers by sharing tech internships through one of the following:
 - Make a pull request.
