@@ -9,7 +9,7 @@ Help your peers by sharing tech internships through one of the following:
 - Make a pull request.
 - Fill this google [form](https://forms.gle/PUe4fZBTj49ToRZe7)
   
-Please, put the internships at the top of the table, so that anyone can weekly check for the new internships at the top. The "Date Posted" field is the best approximate you can get for the date the internship was posted (Tip: you can use Google search's tools to search by time. This would be the last indexed time, but it is approximatley the same).
+Please put the internships at the top of the table so that anyone can weekly check for the new internships at the top. The "Date Posted" field is the best approximate you can get for the date the internship was posted. (Tip: you can use Google search tools to search by time. This would be the last indexed time, but it is approximately the same).
 ## Table of Contents
 - [Internships in Egypt](#intern-egypt)
 - [Internships Abroad](#intern-abroad)
