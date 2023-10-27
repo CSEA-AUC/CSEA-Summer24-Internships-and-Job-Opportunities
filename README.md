@@ -119,10 +119,12 @@ Please put the internships at the top of the table so that anyone can weekly che
 | **Amazon** | Project Management Intern | Netherlands (Remote) | <a href="https://www.amazon.jobs/en/jobs/2436006/project-management-intern?cmpid=SPLICX0248M&utm_source=linkedin.com&utm_campaign=cxro&utm_medium=social_media&utm_content=job_posting&ss=paid"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="🔒 Apply"></a>| August 31|
 | **Devoteam** | Google Pillar - AI Intern | Lisbon, Portugal (Remote) | <a href="https://www.linkedin.com/jobs/view/3704932032"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="🔒 Apply"></a>| August 30|
 
-<a name="fulltime-egypt"></a>
+<a name="fulltime-Egypt"></a>
 ## Full-time Positions in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Siemens Digital Industries Software** | Software Development Engineer | New Cairo, Cairo | <a href="https://jobs.siemens.com/careers/job/563156116350580?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 22nd |
+| **Amazon (Payfort Egypt LLC)** | Software Development Engineer | Cairo | <a href="https://www.amazon.jobs/en/jobs/2450540/software-development-engineer?ss=paid&utm_campaign=cxro&cmpid=SPLICX0248M&utm_medium=social_media&utm_source=linkedin.com&utm_content=job_posting"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 26th |
 | **Microsoft** | Software Engineer - WebXT | Cairo, Egypt | <a href="https://jobs.careers.microsoft.com/us/en/job/1609192/Software-Engineer---WebXT?jobsource=linkedin"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="🔒 Apply"></a>| September 6|
 | **Thndr** | Backend Engineer - WebXT | Cairo, Egypt | <a href="https://shorturl.at/ktwFG"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 8
 | **Thndr** | Frontend Engineer - WebXT | Cairo, Egypt | <a href="https://shorturl.at/DS158"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 8|
@@ -131,6 +133,7 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Full-time Positions Abroad
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Enmacc** | QA Engineer | Munich, Germany | <a href="https://boards.eu.greenhouse.io/enmacc/jobs/4062624101?gh_src=52073c02teu"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 7th |
 | **Anthropic** | Software Engineer, product | San Fransico, USA | <a href="https://jobs.lever.co/Anthropic/8b85d37f-6201-489a-853e-a4523aeb45b8?lever-source=Indeed"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **bol.com** | Software Engineer| Utrecht, the Netherlands | <a href=" https://careers.bol.com/en/job/software-engineer/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Cobblestone Energy** | Junior Developer | Dubai, UAE | <a href="https://cobblestoneenergy.com/careers/job/?gh_jid=4371092003"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
@@ -142,6 +145,9 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Remote Full-time Positions
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Canonical** | Python Engineer | Remote | <a href="https://boards.greenhouse.io/canonicaljobs/jobs/5459951?gh_src=5f4ef62d1us"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 24th |
+| **Kinexon** | Full Stack Developer | Remote / Munich, Germany | <a href="https://kinexon.com/jobs/?gh_jid=4235621101&gh_src=cef402a2teu"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 20th |
+| **Kinexon** | Software Engineer | Remote / Munich, Germany | <a href="https://kinexon.com/jobs/?gh_jid=4235619101&gh_src=1f231072teu"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 20th |
 | **Bending Spoons** | Multiple Positions | Remote / Italy | <a href="https://jobs.bendingspoons.com/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Mercari** | Software Engineer, Android | Remote / Tokyo, Japan | <a href="https://apply.workable.com/mercari/j/B8896BF883/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Brainstorm Force** | QA Engineer - Automation | Remote | <a href="https://brainstormforce.com/join/qa-engineer-automation/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
