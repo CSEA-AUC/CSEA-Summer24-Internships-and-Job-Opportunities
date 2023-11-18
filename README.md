@@ -123,6 +123,12 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Full-time Positions in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Siemens Digital Industries Software** | System Administrator | New Cairo, Cairo | <a href="https://jobs-disw.siemens.com/careers/job/563156116095721?microsite=DISW"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **Siemens Digital Industries Software** | Software QA Engineer | New Cairo, Cairo | <a href="https://jobs-disw.siemens.com/careers/job/563156116381243?microsite=DISW"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **Siemens Digital Industries Software** | Build And Infrastructure Engineer | New Cairo, Cairo | <a href="https://jobs-disw.siemens.com/careers/job/563156116381208?microsite=DISW"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **Abgad** | Frontend Engineer (Mid-level) | New Cairo, Cairo | <a href="https://careers.abgad.com.eg/jobs/3330313-frontend-engineer-mid-level"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **Abgad** | Backend Engineer (Mid-level) | New Cairo, Cairo | <a href="https://careers.abgad.com.eg/jobs/3332658-backend-engineer-mid-level"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **Raya** | Network Engineer - Professional Servcies | New Cairo, Cairo | <a href="https://careers.rayacorp.com/en/egypt/jobs/network-engineer-professional-servcies-4818218/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| November 31st |
 | **Siemens Digital Industries Software** | Software Development Engineer | New Cairo, Cairo | <a href="https://jobs.siemens.com/careers/job/563156116350580?hl=en&sourceType=PREMIUM_POST_SITE&domain=siemens.com"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 22nd |
 | **Amazon (Payfort Egypt LLC)** | Software Development Engineer | Cairo | <a href="https://www.amazon.jobs/en/jobs/2450540/software-development-engineer?ss=paid&utm_campaign=cxro&cmpid=SPLICX0248M&utm_medium=social_media&utm_source=linkedin.com&utm_content=job_posting"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 26th |
 | **Microsoft** | Software Engineer - WebXT | Cairo, Egypt | <a href="https://jobs.careers.microsoft.com/us/en/job/1609192/Software-Engineer---WebXT?jobsource=linkedin"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="🔒 Apply"></a>| September 6|
@@ -145,6 +151,9 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Remote Full-time Positions
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **LXT** | Data Engineer | Egypt (Remote) | <a href="https://lxt.bamboohr.com/careers/307"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **LXT** | Frontend Engineer | Egypt (Remote) | <a href="https://lxt.bamboohr.com/careers/311"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **LXT** | Microsoft Power Platform Solution Developer | Egypt (Remote) | <a href="https://lxt.bamboohr.com/careers/306"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Canonical** | Python Engineer | Remote | <a href="https://boards.greenhouse.io/canonicaljobs/jobs/5459951?gh_src=5f4ef62d1us"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 24th |
 | **Kinexon** | Full Stack Developer | Remote / Munich, Germany | <a href="https://kinexon.com/jobs/?gh_jid=4235621101&gh_src=cef402a2teu"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 20th |
 | **Kinexon** | Software Engineer | Remote / Munich, Germany | <a href="https://kinexon.com/jobs/?gh_jid=4235619101&gh_src=1f231072teu"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 20th |
