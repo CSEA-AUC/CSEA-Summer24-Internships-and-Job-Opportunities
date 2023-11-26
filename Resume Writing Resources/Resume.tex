@@ -1,0 +1,120 @@
+\documentclass{resume} % Use the custom resume.cls style
+\usepackage[left=0.7in,top=0.4in,right=0.7in,bottom=0.6in]{geometry} 
+
+\pagestyle{fancy}
+% Clear the header and footer
+\fancyhead{}
+\fancyfoot{}
+
+\fancyfoot[L]{\today}
+\fancyfoot[R]{Page {\thepage}}
+ % sets both header and footer to nothing
+\renewcommand{\headrulewidth}{0pt}
+\begin{document}
+
+%Headers
+\def\name{Name}
+\def\addressGeneral{Cairo, Egypt}
+\def\phone{\href{tel:+201279711896}{Phone}}
+
+\def\github{\URL{Github Full Url}{your github}}
+
+\def\email{\URL{mailto:your email}{your email}}
+\def\linkedin{\URL{LinkedIn full URL
+}{your LinkedIn}}
+
+
+\header{\name}{\addressGeneral}{\phone}{\email}{\linkedin}{\github} 
+
+\sectionskip
+\begin{Section}{Education}
+	\begin{Education}{The American University in Cairo (AUC)}{Expected graduation: Month Year}{ Major: BS in Computer Engineering}{Your GPA}
+	
+	\end{Education} 
+	
+\end{Section}
+
+% You can merge the next two sections in one section, called Experience
+\begin{Section} {Industry Experience}
+
+\begin{Job}{\large Google, London, UK} {August 2022-December 2022}
+{ Software Engineer Intern}
+\vspace{-0.1in}
+\begin{itemize}
+\itemsep -0.5em
+\item One line bullet points of what you did.
+\item Try to use X-Y-Z formula: Accomplished [X] as measured by [Y], by doing [Z].
+\end{itemize}
+
+
+\end{Job}
+
+\end{Section}
+
+
+\begin{Section} {Research Experience}
+
+
+\begin{Job}{University Name and Location} {Dates} 
+{ Undergraduate Researcher, The Security and Cryptography Laboratory(LASEC)}
+\\[-0.5ex]
+\textit{\normalsize Supervisor: supervisor name}
+\vspace{-0.1in}
+\begin{itemize}
+\itemsep -0.5em
+\item What you did 
+		\end{itemize}
+\end{Job}
+
+
+\end{Section}
+
+\begin{Section}{Technical Skills}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{2ex}} l }
+			Languages          & Proficient at [C++], Intermediate at [Python]\\\ 
+							
+			Tools  & Git, Linux, QT, ...\\  
+		
+		\end{tabular}
+
+\end{Section}
+\begin{Section}{Honors}
+\begin{itemize}
+\item Ranked 1st on \textbf{AUC Competitive Programming Contest} in 2020 \& 2021 (30+teams).
+\item Led the team to rank as the 785th among 9000+ teams in \textbf{Google Hashcode 2021} (10th on Egypt).	 
+\item Try to quantify your honor.
+\end{itemize}
+\end{Section}
+
+\begin{Section}{Projects}
+\begin{Project}{El-Modeer Linux Process Manager}{Group Project, Operating Systems Class, {\URL{Github URL to Project} {GitHub}}} {April 2023-May 2023}
+\vspace{-0.01in}
+\begin{itemize}
+\itemsep -0.5em
+\item Built a user-friendly CLI Linux process manager in \textbf{Rust} using \textbf{Tui} crate. It has a GUI processes tree.
+\item Highligh the languanges and technolgieis by bolding it.
+
+\end{itemize}
+\end{Project}
+
+\end{Section}
+
+
+
+
+
+\begin{Section}{Extracurricular Activities}
+\begin{Project}{Mathematics, Actuarial, Data Science Association; Mathematics Chairperson} \hfill{Jan. 2021-May 2021}
+\vspace{-0.1in}
+	\begin{itemize}
+		\itemsep -0.5em %tighten up space
+		\item ...
+		
+		
+	\end{itemize}	
+\end{Project}
+
+\end{Section}
+
+\end{document}
