@@ -16,3 +16,6 @@ This folder contains two resume templates in LaTex. In this README file, you wil
 ## LaTex Resources
 - [Learn LaTex in 30 min](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes).
 - [Recorded Workshop on How to Write in LaTex](https://drive.google.com/drive/folders/1sd8bk4X6LDXmLO2dbrAulouR_gii950A?usp=drive_link) By the Mathematics, Actuarial and Data Science Association at AUC.
+
+## Resume Writing Tips & Tricks
+- [Resume Generation Tool](https://latexresu.me/)
