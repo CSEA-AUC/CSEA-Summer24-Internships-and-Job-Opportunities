@@ -1,0 +1,364 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+\moderncvcolor{blue}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+%\renewcommand{\familydefault}{\sfdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}
+\usepackage{fontawesome}
+\usepackage{fontspec}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+    pdftitle={Overleaf Example},
+    pdfpagemode=FullScreen
+    }
+
+
+% if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.9]{geometry}
+\usepackage{multicol}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+\usepackage{import}
+
+% personal data
+\name{YOUR}{NAME}
+% \title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
+% \address{New Cairo 11841, Egypt}{}{}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+%\phone[mobile]{+20-111-862-6266}                   % optional, remove / comment the line if not wanted
+% \phone[fixed]{01234 123456}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+% \email{xpan1@swarthmore.edu}                               % optional, remove / comment the line if not wanted
+% \homepage{shawnpan.me}                         % optional, remove / comment the line if not wanted
+% \extrainfo{}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+  
+\newcommand*{\customcventry}[7][.25em]{
+  \begin{tabular}{@{}l} 
+    {\bfseries #4}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\bfseries #5}
+  \end{tabular} \\
+  \begin{tabular}{@{}l} 
+    {\itshape #3}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\itshape #2}
+  \end{tabular}
+  \ifx&#7&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#7%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+
+\newcommand*{\customcvproject}[4][.25em]{
+%   \vfill\noindent
+  \begin{tabular}{@{}l} 
+    {\bfseries #2}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\itshape #3}
+  \end{tabular}
+  \ifx&#4&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#4%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+
+\setlength{\tabcolsep}{12pt}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+\vspace*{-16mm}
+
+
+
+\begin{center}
+\begin{tabular}{ c c c c }
+% Insert your email, github account, phone number, and LinkedIn account in the \href{}
+ \faEnvelopeO\enspace \href{ % Insert your email here}{\emph{ADD EMAIL}} &
+ \faGithub\enspace \href{ % Insert Github account here}{\emph{ADD GITHUB LINK}} &
+ \faMobile\enspace \href{% Insert mobile here}{\emph{ADD PHONE NUMBER}} &
+ \faLinkedinSquare\enspace \href{% Insert LinkedIn account here}{\emph{ADD LINKEDIN  LINK}}  
+\end{tabular}
+\end{center}
+
+
+\section{EDUCATION}
+{\customcventry{GPA: [INSERT GPA HERE]}{BSc in Computer Engineering}{The American University in Cairo}{Expected Graduation: June 2024}{}{}}
+\hspace{0.2cm}\emph{Coursework} \hspace{0.2cm} Mobile Applications Development, Fundamentals of Database Systems, Software Engineering,
+
+\hspace{0.6cm}\emph{include:} \hspace{0.4cm}  Computer Networks, Practical Machine Deep Learning, Computer Architecture, Graph Theory,
+
+\hspace*{2.5cm} Analysis \& Design of Algorithms, Introduction to Game Design \& Development
+
+
+
+\section{TECHNICAL SKILLS}
+\begin{minipage}{\maincolumnwidth}%
+	\small{
+    	\begin{itemize}
+          \item \emph{Programming Languages:} C++ - Python - SQL - Verilog - Go
+          \item \emph{Tools/Libraries/Frameworks:}  Git - Linux - Unity Engine - MATLAB - Tensorflow - Keras - HTML - CSS - Angular
+          \item \emph{Fields:} Object-Oriented Programming - Machine Learning - Deep Learning
+		\end{itemize}}%
+\end{minipage}%
+
+\section{WORK EXPERIENCE}
+
+{\customcventry{July 2022– September 2022}{Applied Scientist Intern}{Microsoft Advanced Technology Labs}{Cairo, Egypt}{}
+{\begin{itemize}
+  \item Extracted \textbf{domain-specific} multilingual data by utilizing \textbf{pre-trained language models} and \textbf{GMM clustering}
+  \item Reduced the computation time of the code base by \textbf{3.8\%} by restructuring the code to a \textbf{multi-process producer-consumer} setup.
+\end{itemize}
+}}
+
+
+
+{\customcventry{June 2021}{Intern}{Orange Egypt}{Remote}{}
+{\begin{itemize}
+  \item Utilized \textbf{SQL} and Microsoft Access to build a database.
+  \item Suggested and programmed a Python function that transfers data from Excel sheets to the database.
+\end{itemize}
+}}
+
+
+
+
+
+
+\section{TEACHING \& RESEARCH EXPERIENCE}
+{\customcventry{June 2021 – June 2023}{Undergraduate Teaching Assistant}{The American University in Cairo}{Remote}{}
+{\begin{itemize}
+  \item	Assisted in \textbf{Computer Organization \& Assembly Language course, Digital Design II \& Computer Networks} courses.
+\end{itemize}
+}}
+
+{\customcventry{February 2021 – May 2022}{Undergraduate Research Assistant}{The American University in Cairo}{Remote}{}
+{\begin{itemize}
+  \item Investigated and tested several clustering algorithms and recommended the most suitable for the project.
+  \item Implemented Agglomerative Hierarchical Clustering algorithm using \textbf{Scipy} library and visualized
+  \item Investigated solutions to the nonstationarity and partial observability of \textbf{multiagent deep reinforcement learning} (MADRL).
+\end{itemize}
+}}
+
+\section{ACADEMIC PROJECTS}
+
+{\customcvproject{WedMaster Android Application}{Summer 2023}
+  {\begin{itemize}
+    \item Developed an Android wedding planner application that connects customers and vendors using Android Studio and Java, inlcuding features like registration, different application interfaces for customers and vendors, and booking system.
+    \item Design and implemented database using MySQL.
+    \item Developed APIs using Node.JS for communication between frontend and database.
+  \end{itemize}
+  }
+}
+
+{\customcvproject{Digital Forensics Course Project}{Summer 2023}
+  {\begin{itemize}
+    \item Conducted comprehensive digital forensic examination of a disk image using FTK and Autopsy.
+    \item Uncovered critical information about the device owner's activities, intentions, and potential involvement in credit card fraud, substance abuse, and association with known criminals.
+  \end{itemize}
+  }
+}
+
+{\customcvproject{Database Application for Used Car Shopping}{Spring 2023}
+  {\begin{itemize}
+    \item Designed and implemented a MySQL database system for a project focused on shopping for used cars in Egypt.
+    \item Developed a web scraper to extract relevant information from online marketplaces and populate the database.
+    \item Created a frontend desktop application with various functionalities, including user registration, marking cars as sold, adding reviews, and showing used cars market analytics.
+  \end{itemize}
+  }
+}
+
+{\customcvproject{Raft}{Spring 2022}
+  {\begin{itemize}
+    \item Implemented Raft consensus algorithm according to this \href{https://pdos.csail.mit.edu/6.824/papers/raft-extended.pdf}{paper} with Go. 
+    \href{}{\emph{\underline{GitHub}}}
+    % INSERT GITHUB LINK IN THE \href{}
+  \end{itemize}
+  }
+}
+
+{\customcvproject{Spam Detector}{Fall 2021}
+  {\begin{itemize}
+    \item Researched different spam detection methods and experimented with LSTM and CNN models.
+    \item Modified the models to integrate sentiment analysis.
+    \item Concluded that the best model is LSTM integrated with sentiment analysis, as it beats the baseline, and wrote a research paper and a poster about the project.
+    \href{}{\emph{\underline{GitHub}}}
+    % INSERT GITHUB LINK IN THE \href{}
+  \end{itemize}
+  }
+}
+
+{\customcvproject{RISC-V Processor}{Fall 2021}
+  {\begin{itemize}
+    \item Implemented with Verilog a pipelined processor with single-ported memory that supports RV32IMC instructions and handles hazards. \href{}{\emph{\underline{GitHub}}}
+    % INSERT GITHUB LINK IN THE \href{}
+  \end{itemize}
+  }
+}
+
+
+
+
+{\customcvproject{Bootloader}{Spring 2021}
+  {\begin{itemize}
+    \item Built with x86 assembly language a bootloader whose scope includes, but not limited to, building a virtual page table, mapping physical memory to virtual addresses, scanning PCI devices, identifying ATA disks, setting up PIT timer, etc. \href{}{\emph{\underline{GitHub}}}
+    % INSERT GITHUB LINK IN THE \href{}
+  \end{itemize}
+  }
+}
+
+
+
+{\customcvproject{Simple Search Engine}{Fall 2020}
+{\begin{itemize}
+  \item Developed a search engine with C++ by constructing a Webgraph and implementing Google's PageRank \href{}{\emph{\underline{GitHub}}}
+  % INSERT GITHUB LINK IN THE \href{}
+\end{itemize}
+}}
+
+
+
+
+\section{COMPETITIONS}
+{\customcvproject{Egyptian Collegiate Programming Contest (ECPC)}{August 2023}
+{\begin{itemize}
+  \item Ranked \textbf{first-place} amongst teams from my university and qualified to the \textbf{Arab \& African Collegiate Programming Contest (ACPC).}
+\end{itemize}
+}}
+
+{\customcvproject{Cairo's VR Empathy Hackathon}{July 2023}
+{\begin{itemize}
+  \item Developed an interactive \textbf{VR} game that raises awareness on sustainable sources of energy and SDG 7.
+\end{itemize}
+}}
+
+{\customcvproject{DELL Technologies’ C(4F)2 Hackathon 2021 – 21st place}{March 2021}
+{\begin{itemize}
+  \item Programmed with Python a \textbf{reinforcement learning agent} which utilized \textbf{Double Deep Q-Network} to solve the given problem.
+\end{itemize}
+}}
+
+
+{\customcvproject{iGEM Competition 2020, AUC-EGYPT Team – silver-level medal}{May 2020 - December 2020}
+{\begin{itemize}
+  \item Developed a game using \textbf{Unity Engine} to educate users on synthetic biology. \href{https://auc-egypt-igem.itch.io/mission-luciferin}{\emph{\underline{Game Link}}}
+\end{itemize}
+}}
+
+\section{CERTIFICATES}
+{\customcvproject{Google IT Support Professional Certificate}{May 2022}
+{\begin{itemize}
+  \item Topics: Computer Networking, System Administration, Operating Systems, and IT Security
+\end{itemize}
+}}
+
+
+\section{EXTRACURRICULAR ACTIVITIES}
+
+{\customcventry{Fall 2023 - Present}{Internship Hunting Committee Chair}{Computer Science \& Engineering Association}{}{}
+{\begin{itemize}
+  \item Planned the year's goals and events.
+  \item Oversaw the construction of the \href{https://github.com/CSEA-AUC/CSEA-Summer24-Internships-and-Job-Opportunities}{\emph{\underline{internships' database}}}.
+\end{itemize}
+}}
+
+{\customcventry{Fall 2022 - Spring 2023}{President}{AUC Robotics Club}{}{}
+{\begin{itemize}
+  \item Planned the year's technical tracks, projects, events, and competitions.
+  \item Managed a club's annual budget, which includes cash flows, costs, and expenditures.
+  \item Assembled teams to join \textbf{RoboCup} and \textbf{Minesweepers} competitions and provided them with resources and training.
+  \item Launched \textbf{BB-8 project} to build a BB-8 driod.
+  \item Received the \textbf{Outstanding Academic Club} and \textbf{International Outreach Award} that year by the Office of Student Life.
+\end{itemize}
+}}
+
+
+
+
+
+
+{\customcventry{Fall 2021 - Spring 2022}{Cloud Computing Chair}{AUC Google Developers Student Club}{}{}
+{\begin{itemize}
+  \item Mentored a group of students in Cloud Computing and prepared them to educate and give workshops to students.
+\end{itemize}
+}}
+
+\section{LANGUAGES}
+\begin{minipage}{\maincolumnwidth}%
+	\small{
+    	\begin{itemize}
+          \item \emph{Native Language:} Arabic
+          \item \emph{Fluent:} English
+          \item \emph{Beginner:} French - German
+		\end{itemize}}%
+\end{minipage}%
+      
+
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+%-----       letter       ---------------------------------------------------------
+
+\end{document}
+
+
+%% end of file `template.tex'.
