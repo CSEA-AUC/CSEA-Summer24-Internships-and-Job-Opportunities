@@ -23,6 +23,10 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Internships in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Siemens** | D2S Engineering Team Intern | Cairo, Egypt | <a href="https://www.linkedin.com/posts/noura-amr-00b106193_talentacquisition-internshipopportunity-siemensdigitalindustries-activity-7143248069122318336-aMUv?utm_source=share&utm_medium=member_ios"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| December 20|
+| **Update Co.** | Intern (Several Positions) | Cairo, Egypt | <a href="https://www.linkedin.com/posts/karim-ashour-935a95192_internship-opportunities-at-update-co-activity-7142485432256155648-_5pm"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| December 18|
+| **RSA** | RSA- Winter Internship 2024 | Cairo, Egypt | <a href="https://jobs.rsa.com/job/-/-/31988/57661443392"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| November 23|
+| **Tagaddod** | Data Analyst | Cairo, Egypt | <a href="https://apply.workable.com/tagaddod/j/1050271130/"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| October 27|
 | **Mastercard** | Associate Consultant Intern 2024 Summer Internship Program | Cairo, Egypt | <a href="https://www.linkedin.com/jobs/view/3742894869"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| October 19|
 | **Demo Company** | Intern | Cairo, Egypt | <a href="https://www.linkedin.com/jobs/view/3742569926"><img src="https://static.vecteezy.com/system/resources/previews/008/550/626/original/closed-shop-sign-transparent-png.png" width="84" alt="Closed"></a>| October 19|
 | **Honeywell** | Intern Bachelors Cyber Sec | Cairo, Egypt | <a href="https://careers.honeywell.com/us/en/job/HONEUSREQ416815EXTERNALENUS/Intern-Bachelors-Cyber-Sec?utm_source=linkedin&utm_medium=phenom-feeds"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a></a>| October 10|
@@ -36,6 +40,9 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Internships Abroad
 | Company | Role | Location | Application/Link | Date Posted | 
 | --- | --- | --- | :---: | :---: |
+| **Uber** | 2024 Data Scientist Internship, Amsterdam | Amsterdam, Netherlands | <a href="https://university-uber.icims.com/jobs/127198/2024-data-scientist-internship%2c-amsterdam/job"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
+| **HP** | Data Science Intern | Dublin, Ireland | <a href="https://www.linkedin.com/jobs/view/3789997964"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| December 22 |
+| **Microsoft** | Software Engineering: Internship Opportunities, Start Date Summer 2024 | Dublin, Ireland | <a href="https://jobs.careers.microsoft.com/global/en/job/1587394/Software-Engineering%3A-Internship-Opportunities%2C-Start-Date-Summer-2024"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| December 4 |
 | **Dell Technologies** | Undergraduate Intern |Bucharest, Bucharest, Romania | <a href="https://www.linkedin.com/jobs/view/3744752813"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 20 |
 | **McKinsey & Company** | Summer Business Analyst Intern - McKinsey Digital |Lisbon or Madrid, Spain | <a href="https://www.mckinsey.com/careers/search-jobs/jobs/summerbusinessanalystintern-mckinseydigital-38389"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| NA |
 | **IBM US** | Internship @ IBM US | Multiple Cities | <a href="https://www.ibm.com/careers/us-en/search/?search=Summer&filters=department:Software%20Engineering,level:Intern"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| NA |
@@ -123,6 +130,9 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Full-time Positions in Egypt
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Siemens Digital Industries Software** | Software Development Engineer | New Cairo, Cairo | <a href="https://jobs-disw.siemens.com/careers/job/563156117633858?microsite=DISW"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| December 17 |
+| **Siemens Digital Industries Software** | Backend Software Engineer | New Cairo, Cairo | <a href="https://disw-careers.employeereferrals.com/jobs/ynNkQulZy5?locale=en"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| December 13 |
+| **Breadfast** | Software Backend Engineer I | New Cairo, Cairo | <a href="https://www.breadfast.com/jobs/6000152108/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| December 5 |
 | **Siemens Digital Industries Software** | System Administrator | New Cairo, Cairo | <a href="https://jobs-disw.siemens.com/careers/job/563156116095721?microsite=DISW"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Siemens Digital Industries Software** | Software QA Engineer | New Cairo, Cairo | <a href="https://jobs-disw.siemens.com/careers/job/563156116381243?microsite=DISW"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **Siemens Digital Industries Software** | Build And Infrastructure Engineer | New Cairo, Cairo | <a href="https://jobs-disw.siemens.com/careers/job/563156116381208?microsite=DISW"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
@@ -139,6 +149,8 @@ Please put the internships at the top of the table so that anyone can weekly che
 ## Full-time Positions Abroad
 | Company | Role | Location | Application/Link | Date Posted |
 | --- | --- | --- | :---: | :---: |
+| **Bloomberg** | Open Source Python Engineer | London, UK | <a href="https://www.linkedin.com/posts/sian-naiken-cooke-98673b188_hiringnow-opensourcedevelopment-softwarejobs-activity-7140012650612035584-s_Wm?utm_source=share&utm_medium=member_desktop"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| December 13 |
+| **Microsoft** | Software Engineer: Opportunities for University Graduates, Redmond| Redmond, WA | <a href="https://jobs.careers.microsoft.com/global/en/job/1668163/Software-Engineer%3A-Opportunities-for-University-Graduates%2C-Redmond"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| December 12 |
 | **Enmacc** | QA Engineer | Munich, Germany | <a href="https://boards.eu.greenhouse.io/enmacc/jobs/4062624101?gh_src=52073c02teu"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| October 7th |
 | **Anthropic** | Software Engineer, product | San Fransico, USA | <a href="https://jobs.lever.co/Anthropic/8b85d37f-6201-489a-853e-a4523aeb45b8?lever-source=Indeed"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
 | **bol.com** | Software Engineer| Utrecht, the Netherlands | <a href=" https://careers.bol.com/en/job/software-engineer/"><img src="https://i.imgur.com/w6lyvuC.png" width="84" alt="Apply"></a>| Unknown |
